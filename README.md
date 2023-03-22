@@ -1,5 +1,7 @@
 # Game Of Life
 
+[pypi : simple-game-of-life](https://pypi.org/project/simple-game-of-life/#description)
+
 Simple way to play Conway's game of life in python.<br>
 You can import your own map as json file name "save.json", using `get_MAP` methode.<br>
 All you custom maps (in the save.json file) are available in the list `custom_maps`.<br>
