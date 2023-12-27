@@ -115,7 +115,7 @@ game.start_animation()
 
     NOTE : <br>
 
-        For saving, 
+        For saving (on macOS), 
         You need first to install ffmpeg,
         First search : Homebrew website (https://brew.sh/),
         Copy past the command in a Terminal, press enter.
